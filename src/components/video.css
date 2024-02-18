@@ -1,0 +1,42 @@
+.parent-layout {
+    margin-top: 35px;
+}
+
+.list-comp {
+    height: 100%;
+    border-radius: 5px;
+    padding: 24px;
+    background-color: #fff;
+}
+
+body{
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 100vh !important ;/* Ensure the body takes up at least the full viewport height */
+    margin: 0 !important;
+}
+
+
+.video-title {
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+    background-color: #953214;
+    line-height: 2;
+}
+
+.header {
+    background-color: #b31f18 !important;
+}
+.search-parent{
+    text-align: right;
+
+}
+.search-parent .search-input {
+    height: 30px;
+    background: #f7f7f7;
+    border: 1px solid #953214;
+    margin-bottom: 5px;
+    width: auto;
+    text-align: center;
+}
