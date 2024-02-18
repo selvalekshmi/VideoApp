@@ -1,0 +1,19 @@
+// Run the Application
+step 1 :clone the project in github and open the folder in VS code.
+step 2 :open terminal window and run the command "npm install"
+step 3 :run the command "npm start"
+step 4 : open local url (http://localhost:3000)
+
+// project details 
+ . src folder have images and videos
+ . component have playlist and vidoplay file
+ . core folder have header file 
+ . Approuter is used to navigation of page 
+
+// lighthouse performace is 99 
+
+. Click the image its redirect to the videoplay page 
+. Search functionality working fine .
+. Drag and Drop is used for reorder the playlist.
+. ReactPlayer library used for play the video .
+
